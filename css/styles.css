@@ -1,0 +1,19 @@
+html{
+    box-sizing: border-box;
+    font-size: 13px;
+}
+body{
+    background-color: black;
+    font-family:'open sans';
+    color: white;
+    margin:30px;
+}
+.navbar li {
+    display:inline-block;
+    justify-content: right;
+   }
+
+.whole-container{
+    width: 700px;
+    position: absolute;
+}
