@@ -118,8 +118,9 @@ header a.contact {
 }
 
 .locals {
+    font-size: 24px;
     padding: 50px 20px;
-    text-align: center;
+    text-align: left;
 }
 
 .locals h2 {
